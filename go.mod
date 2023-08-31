@@ -11,7 +11,7 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/mattn/go-runewidth v0.0.4
 	github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea
-	gopkg.in/yaml.v3 v3.0.0
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
