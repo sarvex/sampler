@@ -3,7 +3,7 @@ module github.com/sqshq/sampler
 go 1.17
 
 require (
-	github.com/gizak/termui/v3 v3.0.0
+	github.com/gizak/termui/v3 v3.1.0
 	github.com/hajimehoshi/go-mp3 v0.1.1
 	github.com/hajimehoshi/oto v0.1.1
 	github.com/jessevdk/go-flags v1.4.0
@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	github.com/cjbassi/drawille-go v0.0.0-20190126131713-27dc511fe6fd // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20180628210949-0892b62f0d9f // indirect
 	github.com/gopherjs/gopherwasm v0.1.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
