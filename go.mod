@@ -9,7 +9,7 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/kr/pty v1.1.5
 	github.com/lunixbochs/vtclean v1.0.0
-	github.com/mattn/go-runewidth v0.0.4
+	github.com/mattn/go-runewidth v0.0.15
 	github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea
 	gopkg.in/yaml.v3 v3.0.0
 )
@@ -20,4 +20,5 @@ require (
 	github.com/gopherjs/gopherwasm v0.1.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d // indirect
+	github.com/rivo/uniseg v0.2.0 // indirect
 )
